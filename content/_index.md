@@ -15,5 +15,6 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
 - [Trial](/Trial)
- 
+- [All Content](Trial/All Content.md)
+- [All Content](/Trial/All Content.md)
 
