@@ -5,10 +5,10 @@ tags:
 enableToc: false # do not show a table of contents on this page
 ---
 
-[[Poetry Notes]]
+- [[Poetry Notes]]
 
-Screenshot url maker:
-[https://imgpile.com/]
+- Screenshot url maker:
+	[https://imgpile.com/]
 
 
 
