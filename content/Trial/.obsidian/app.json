@@ -2,5 +2,9 @@
   "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "fr",
+    "en-US"
+  ]
 }

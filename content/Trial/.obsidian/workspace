@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hey.md",
+            "file": "Poetry Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hey.md",
+                "file": "Poetry Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "319ae03c7413995a",
   "lastOpenFiles": [
+    "Poetry Notes.md",
+    "All Content.md",
     "Hey.md",
     "Pasted image 20220605120049.png",
     "Hi.md"
