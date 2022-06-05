@@ -11,7 +11,7 @@ Imagine this working out
 
 MD:
 
-![RDSDXx.png](https://imgpile.com/images/RDSDXx.png)
+![RDSebj.png](https://imgpile.com/images/RDSebj.png)
 
 
 
@@ -20,13 +20,10 @@ MD:
 
 
 
-[![RDSDXx.png](https://imgpile.com/images/RDSDXx.png)]
-(https://imgpile.com/i/RDSDXx)
 
 
 
-HTML:
 
-<img src="https://imgpile.com/images/RDSDXx.png" alt="RDSDXx.png" border="0" />
+
 
 
