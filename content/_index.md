@@ -23,6 +23,8 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - [More notes](Notes/content/Trial/Hi.md)
 - [Another set of notes](/Trial)
 - [Even more](Trial/Hi.md)
+- [Trial](/Trial)
+- 
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
