@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Content.md",
+            "file": "KK.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
+                "file": "KK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,9 @@
   },
   "active": "319ae03c7413995a",
   "lastOpenFiles": [
+    "KK.md",
+    "Untitled 1.md",
     "Content.md",
-    "Untitled.md",
     "Poetry Notes.md",
     "Hi.md",
     "Hey.md",
