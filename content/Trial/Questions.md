@@ -1,3 +1,11 @@
+- ---
+title: "Questions"
+tags:
+- Notes
+enableToc: false # do not show a table of contents on this page
+---
+
+- 
 - ## Questions for English
 	- Is my thesis statement effective:
 	- xMark Anthony has many features of a skilled politician, including his power of irony and rhetorical speech, his persuasive abilities and his flexible mindset.
