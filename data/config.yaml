@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Orca
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,12 +8,12 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  I am Orca, dont touch my notes.
+  Thank you, 
 page_title:
   "🪴 Quartz 3.2"
 links:
-  - link_name: Twitter
+  - link_name: The cool guy who made Quartz
     link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: How set up in case I forget
+    link: https://quartz.jzhao.xyz/
