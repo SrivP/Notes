@@ -7,11 +7,9 @@
         "id": "319ae03c7413995a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Hi.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220605120049.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hi.md",
+                "file": "Pasted image 20220605120049.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +87,7 @@
   },
   "active": "319ae03c7413995a",
   "lastOpenFiles": [
+    "Pasted image 20220605120049.png",
     "Hi.md",
     "Hey.md"
   ]

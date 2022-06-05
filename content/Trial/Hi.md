@@ -10,5 +10,7 @@ Hello this is my content
 
 So lets see if things update!!
 
+![[Pasted image 20220605120049.png]]
+
 [[Hey]]
 
