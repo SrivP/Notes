@@ -6,5 +6,6 @@
   "spellcheckLanguages": [
     "fr",
     "en-US"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
