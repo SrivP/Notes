@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KK.md",
+            "file": "Poetry Notes.md",
             "mode": "source",
             "source": false
           }
@@ -23,28 +23,8 @@
     "type": "split",
     "children": [
       {
-        "id": "59f657bac0847f75",
-        "type": "tabs",
-        "dimension": 25.906735751295336,
-        "children": [
-          {
-            "id": "aff3efae4c6b000a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "78b07f1d7ab0a5ae",
         "type": "tabs",
-        "dimension": 74.09326424870467,
         "children": [
           {
             "id": "094c7e631a420aec",
@@ -89,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KK.md",
+                "file": "Poetry Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +89,10 @@
   },
   "active": "319ae03c7413995a",
   "lastOpenFiles": [
+    "Poetry Notes.md",
     "KK.md",
     "Untitled 1.md",
     "Content.md",
-    "Poetry Notes.md",
     "Hi.md",
     "Hey.md",
     "Questions.md",
