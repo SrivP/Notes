@@ -1,4 +1,3 @@
-Poetry
 ---
 title: "Poetry"
 tags:
