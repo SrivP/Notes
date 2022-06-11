@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Debate/Feminism.md",
+            "file": "debate/Women.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debate/Feminism.md",
+                "file": "debate/Women.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "69846e0d9e9e3aaf",
   "lastOpenFiles": [
+    "debate/Women.md",
     "Debate/Feminism.md",
     "Trig.md",
     "Poetry.md",
@@ -105,7 +106,6 @@
     "Pasted image 20220605120049.png",
     "KK.md",
     "Hi.md",
-    "Hey.md",
-    "Content.md"
+    "Hey.md"
   ]
 }
