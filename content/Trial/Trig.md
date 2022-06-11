@@ -1,3 +1,10 @@
+---
+title: "Trig"
+tags:
+- Notes
+enableToc: false # do not show a table of contents on this page
+---
+
 - Congruent Triangles: are triangles that are the same in every aspect, (equal side lengths and equal angles) 
 - Similar Triangles: are triangles that have same shape and equal angles but not necessarily same size
 
