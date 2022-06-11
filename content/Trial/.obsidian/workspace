@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "319ae03c7413995a",
+        "id": "69846e0d9e9e3aaf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Poetry Notes.md",
+            "file": "Trig.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poetry Notes.md",
+                "file": "Trig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +79,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cc05228b20a3486d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,15 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "319ae03c7413995a",
+  "active": "69846e0d9e9e3aaf",
   "lastOpenFiles": [
-    "Poetry Notes.md",
+    "Trig.md",
+    "Debate/2022-06-09.md",
+    "MathPics.md",
+    "Pasted image 20220605120049.png",
     "KK.md",
-    "Untitled 1.md",
-    "Content.md",
     "Hi.md",
     "Hey.md",
-    "Questions.md",
-    "Pasted image 20220605120049.png"
+    "Content.md",
+    "Poetry Notes.md",
+    "Poetry.md"
   ]
 }
