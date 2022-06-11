@@ -7,5 +7,6 @@
     "fr",
     "en-US"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
