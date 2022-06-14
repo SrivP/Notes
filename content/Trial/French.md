@@ -1,15 +1,9 @@
-
 ---
-title: "Hi"
+title: "French"
 tags:
 - Notes
+- debate
 enableToc: false # do not show a table of contents on this page
 ---
 
-Hello this is my content
-
-So lets see if things update!!
-
-
-[[Hey]]
-
+BONJOUR TOUT LE MONDEEEEEEE :D

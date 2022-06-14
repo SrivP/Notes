@@ -18,7 +18,7 @@ enableToc: false # do not show a table of contents on this page
 - Nothing to really explain here?
 ![RKMUSc.png](https://imgpile.com/images/RKMUSc.png)
 
-`> [!INFO]`
+
 > Vertex Order is Important
 
 ![RKMdU1.png](https://imgpile.com/images/RKMdU1.png)
@@ -29,3 +29,6 @@ enableToc: false # do not show a table of contents on this page
 
 -------
 ![RKMiUl.png](https://imgpile.com/images/RKMiUl.png)
+
+> HW
+> ![RK802b.png](https://imgpile.com/images/RK802b.png)
