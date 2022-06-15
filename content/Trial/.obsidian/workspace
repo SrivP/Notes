@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69846e0d9e9e3aaf",
+        "id": "46a86262cbb5b8a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MathPics.md",
+            "file": "Trig.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MathPics.md",
+                "file": "Trig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,29 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "e0d2489916aebc0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48490a1f6ba898ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trig.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -95,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69846e0d9e9e3aaf",
+  "active": "46a86262cbb5b8a8",
   "lastOpenFiles": [
-    "MathPics.md",
+    "Trig.md",
+    "Recording 20220614152134.webm",
+    "kk2.md",
+    "kk.md",
     "French.md",
     "Content.md",
-    "Trig.md",
-    "Poetry Notes.md",
-    "Poetry.md",
-    "Hey.md",
-    "Hi.md",
-    "KK.md",
-    "Questions.md"
+    "meth.pdf",
+    "Math.md",
+    "MathPics.md",
+    "Poetry.md"
   ]
 }

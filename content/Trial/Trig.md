@@ -5,7 +5,7 @@ tags:
 - Math
 enableToc: false # do not show a table of contents on this page
 ---
-
+> Do page 41 Q.10+ & Go over 6 Trig ratios + Triangle SAS, SSS, AAA, Properties of Triangles. Check for answer.
 - Congruent Triangles: are triangles that are the same in every aspect, (equal side lengths and equal angles) 
 - Similar Triangles: are triangles that have same shape and equal angles but not necessarily same size
 
@@ -14,6 +14,7 @@ enableToc: false # do not show a table of contents on this page
 ![RKM4NX.png](https://imgpile.com/images/RKM4NX.png)
 
 - If side A on triangle A over side B on triangle B = 1/2. Then the others should follow the same ratios. 
+- So 2 corresponding and 1 same angle means SAS right?
 ![RKMNHg.png](https://imgpile.com/images/RKMNHg.png)
 
 - Nothing to really explain here?

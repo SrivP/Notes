@@ -8,5 +8,6 @@
     "en-US"
   ],
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true
 }
