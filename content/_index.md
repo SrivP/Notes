@@ -2,8 +2,8 @@
 title: 🪴 Quartz 3.2
 ---
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Responsive digital clock" src="https://codepen.io/ValyTGV/embed/NrXwyQ?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-</iframe>
+<div class="iframe-container"><iframe loading="lazy" src="https://indify.co/widgets/live/weather/hdscKCBcTwe471p9qaPJ"></iframe></div>
+
 
 - School is fun
 - Some people are insane though
