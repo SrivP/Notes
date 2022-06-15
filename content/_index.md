@@ -14,7 +14,9 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-- [School Notes](/Trial)
-- [Debate Notes](/tags/debate)
-- [Deb Not](/debate)
-- 
+- [School](/tags/Notes)
+- [Debate](/tags/debate)
+- [French](/tags/French)
+- [Math](/tags/Math)
+- [English](/tags/English)
+
