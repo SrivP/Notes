@@ -2,7 +2,7 @@
 title: 🪴 Quartz 3.2
 ---
 
-<div class="iframe-container"><iframe loading="lazy" src="https://indify.co/widgets/live/weather/hdscKCBcTwe471p9qaPJ"></iframe></div>
+<div class="iframe-container"><iframe loading="lazy" src="https://indify.co/widgets/live/weather/hdscKCBcTwe471p9qaPJ" ></iframe></div>
 
 
 - School is fun
@@ -19,3 +19,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - [Math](/tags/Math)
 - [English](/tags/English)
 
+<iframe src="https://indify.co/widgets/live/quotes/4TOkWTdcxFOMXjD4zqCN" name="idk" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
