@@ -2,14 +2,13 @@
 title: 🪴 Quartz 3.2
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+<iframe height="300" style="width: 100%;" scrolling="no" title="Responsive digital clock" src="https://codepen.io/ValyTGV/embed/NrXwyQ?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+</iframe>
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
-
+- School is fun
+- Some people are insane though
+- *looks to phoniton*
+- GL!
 
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
