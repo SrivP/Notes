@@ -37,5 +37,3 @@ enableToc: false # do not show a table of contents on this page
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VXlFEilh-cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Triangle Properties](https://res.cloudinary.com/marcomontalbano/image/upload/v1655306127/video_to_markdown/images/youtube--VXlFEilh-cw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/VXlFEilh-cw "Triangle Properties")
