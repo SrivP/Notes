@@ -2,7 +2,7 @@
 title: 🪴 Quartz 3.2
 ---
 
-<iframe src="https://indify.co/widgets/live/quotes/4TOkWTdcxFOMXjD4zqCN" width="100%" class="myIframe"></iframe> <script type="text/javascript" language="javascript"> $('.myIframe').css('height', $(window).height()+'px'); </script>
+<iframe src="https://indify.co/widgets/live/quotes/4TOkWTdcxFOMXjD4zqCN" name="idk" scrolling="No" height="500px" width="75%" marginheight = "0px" marginwidth = "0px" style="border: none;"></iframe>
 
 
 
