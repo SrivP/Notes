@@ -7,6 +7,8 @@ enableToc: false # do not show a table of contents on this page
 ## Photos
 - Kavelashvili, M. (2018, November 15). _Photo by Marita Kavelashvili on unsplash_. Beautiful Free Images & Pictures. Retrieved June 17, 2022, from https://unsplash.com/photos/ugnrXk1129g
   
+- Aedrian. (2021, May 19). _Photo by Aedrian on unsplash_. Beautiful Free Images & Pictures. Retrieved June 17, 2022, from https://unsplash.com/photos/56FyAobwwrg
+  
 - Gumilar, I. B. (2018, January 17). _Photo by Imat Bagja gumilar on unsplash_. Beautiful Free Images & Pictures. Retrieved June 17, 2022, from https://unsplash.com/photos/jwTvCQQJXh0
   
 - Vistbacka, M. (2019, January 13). _Photo by Matilda Vistbacka on unsplash_. Beautiful Free Images & Pictures. Retrieved June 17, 2022, from https://unsplash.com/photos/GACsXKBm0qU
@@ -16,6 +18,8 @@ enableToc: false # do not show a table of contents on this page
 - _Rough surface of colorful tree trunk - pexels_. (n.d.). Retrieved June 17, 2022, from https://www.pexels.com/photo/rough-surface-of-colorful-tree-trunk-4913353/
   
 - Pixabay, P. (n.d.). _Gray Lantern · free stock photo - pexels.com_. Pexels. Retrieved June 17, 2022, from https://www.pexels.com/photo/antique-board-burnt-close-up-262042/
+  
+- Twitter, T. (n.d.). _PBS did not publish this image, despite the tag_. PBS. Retrieved June 17, 2022, from https://www.pbs.org/publiceditor/blogs/pbs-public-editor/when-pbs-is-not-pbs/
 
 
 ## Fonts
