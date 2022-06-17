@@ -25,11 +25,11 @@ enableToc: false # do not show a table of contents on this page
 	- Use 8 values to represent numbers: 0,1,2,3,4,5,6,7
 	- Similar to decimal column system
 		- Conversion technique:
-			- ![[Pasted image 20220617140353.png]]
+		- ![RsaCDi.png](https://imgpile.com/images/RsaCDi.png)
 		- Used in early systems
 		- To go from base 8 to base 2, have to do till base 10 first
 			- Base 10 - Base 8:
-				  ![[Pasted image 20220617140656.png]]
+				  ![RsePrC.png](https://imgpile.com/images/RsePrC.png)
 			- Base 8 - Base 10:
-				- ![[Pasted image 20220617140715.png]]
+				- ![RseYgS.png](https://imgpile.com/images/RseYgS.png)
 - Hex = Base 16 (I'll update this later on, with today's lesson)
