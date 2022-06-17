@@ -9,9 +9,8 @@ enableToc: false # do not show a table of contents on this page
 
 - Decimal = base 10
 	- Consists of 10 digits: 0,1,2,3,4,5,6,7,8,9
-	> This is wrong......right?!
-	> ![Rsa7EC.png](https://imgpile.com/images/Rsa7EC.png)
-	
+	-  This is wrong......right?!
+		![Rsa7EC.png](https://imgpile.com/images/Rsa7EC.png)
 - Binary = Base 2
 	- ![RsZjuP.png](https://imgpile.com/images/RsZjuP.png)
 	- A single digit of binary is called a bit, it's ONLY 1 or 0
