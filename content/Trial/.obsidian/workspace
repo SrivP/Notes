@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ICS/Learning to count....Again.md",
+            "file": "ICS/Citations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICS/Learning to count....Again.md",
+                "file": "ICS/Citations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICS/Learning to count....Again.md",
+                "file": "ICS/Citations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "46a86262cbb5b8a8",
   "lastOpenFiles": [
+    "ICS/Citations.md",
     "ICS/Learning to count....Again.md",
     "Pasted image 20220617140353.png.md",
     "Pasted image 20220617140008.png",
@@ -128,7 +129,6 @@
     "Pasted image 20220617140353.png",
     "ENG/Poetry Notes.md",
     "French/Review.md",
-    "ICS/ICS_HW.md",
-    "Content.md"
+    "ICS/ICS_HW.md"
   ]
 }
