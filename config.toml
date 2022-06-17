@@ -17,6 +17,8 @@ enableGitInfo = true
         endLevel = 3
         ordered = true
         startLevel = 2
+    [markup.goldmark.renderer]
+        unsafe = true
     [markup.highlight]
         anchorLineNos = false
         codeFences = true
@@ -31,3 +33,4 @@ enableGitInfo = true
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
+
