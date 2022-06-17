@@ -18,9 +18,10 @@ enableToc: false # do not show a table of contents on this page
 	- Computers use Binary system
 	- ![Rsa4AL.png](https://imgpile.com/images/Rsa4AL.png)
 	- Method 2:
-		  ![[Pasted image 20220617140008.png]]
-		  - Decimal #'s get grouped by 3 digits
-		  - Binary #'s get grouped by 4 digits
+		  ![Rsefk3.png](https://imgpile.com/images/Rsefk3.png)
+		  
+		- Decimal #'s get grouped by 3 digits
+		- Binary #'s get grouped by 4 digits
 - Octal = Base 8
 	- Use 8 values to represent numbers: 0,1,2,3,4,5,6,7
 	- Similar to decimal column system
