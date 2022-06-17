@@ -18,4 +18,4 @@ enableToc: false # do not show a table of contents on this page
 ![RGGA14.png](https://imgpile.com/images/RGGA14.png)
 ![RGGOqG.png](https://imgpile.com/images/RGGOqG.png)
 
-[[Trig]]
+[[MATH/Trig]]

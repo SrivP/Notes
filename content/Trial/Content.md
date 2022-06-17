@@ -5,10 +5,10 @@ tags:
 enableToc: false # do not show a table of contents on this page
 ---
 
-- [[Poetry Notes]]
-- [[MathPics]]
-- [[Poetry]]
-- [[Trig]]
+- [[ENG/Poetry Notes]]
+- [[MATH/MathPics]]
+- [[ENG/Poetry]]
+- [[MATH/Trig]]
 - [[French]]
 
 
