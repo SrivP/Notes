@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ICS/Hexadecimal.md",
+            "file": "ICS/Learning to count....Again.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICS/Hexadecimal.md",
+                "file": "ICS/Learning to count....Again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICS/Hexadecimal.md",
+                "file": "ICS/Learning to count....Again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "46a86262cbb5b8a8",
   "lastOpenFiles": [
-    "ICS/Hexadecimal.md",
+    "ICS/Learning to count....Again.md",
+    "ENG/Poetry Notes.md",
+    "French/Review.md",
+    "ICS/ICS_HW.md",
     "Content.md",
     "kk.md",
     "kk2.md",
     "French.md",
     "MATH/Trig.md",
-    "ENG/Poetry.md",
-    "Recording 20220614152134.webm",
-    "MATH/meth.pdf",
-    "Math.md"
+    "ENG/Poetry.md"
   ]
 }
