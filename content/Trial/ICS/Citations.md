@@ -20,6 +20,14 @@ enableToc: false # do not show a table of contents on this page
 - Pixabay, P. (2017, January). _Gray Lantern · free stock photo - pexels.com_. Pexels. Retrieved June 17, 2022, from https://www.pexels.com/photo/antique-board-burnt-close-up-262042/
   
 - Twitter, T. (2020, August). _PBS did not publish this image, despite the tag_. PBS. Retrieved June 17, 2022, from https://www.pbs.org/publiceditor/blogs/pbs-public-editor/when-pbs-is-not-pbs/
+  
+- Szmigiel, L. (2015, September 11). Photo by Lukasz Szmigiel on unsplash. Beautiful Free Images &amp; Pictures. Retrieved June 17, 2022, from [https://unsplash.com/photos/jFCViYFYcus](https://unsplash.com/photos/jFCViYFYcus "https://unsplash.com/photos/jFCViYFYcus")
+  
+- Seßler, D. (2019, March 28). Photo by Daniel Seßler on unsplash. Beautiful Free Images &amp; Pictures. Retrieved June 17, 2022, from [https://unsplash.com/photos/78kaMQmUUq4](https://unsplash.com/photos/78kaMQmUUq4 "https://unsplash.com/photos/78kaMQmUUq4")
+  
+- Newton, J. (2016, October 1). Photo by Joshua Newton on unsplash. Beautiful Free Images &amp; Pictures. Retrieved June 17, 2022, from [https://unsplash.com/photos/egK73XCwN8I](https://unsplash.com/photos/egK73XCwN8I "https://unsplash.com/photos/egK73XCwN8I") 
+
+- Denil , J. (2020, January 27). _Photo by Jonas Denil on unsplash_. Beautiful Free Images & Pictures. Retrieved June 17, 2022, from https://unsplash.com/photos/6H8rSPKHwWI
 
 ## Fonts
 - Fonts, K. C. (2019, July 25). _Urban jungle font: KC fonts_. fontspace. Retrieved June 17, 2022, from https://www.fontspace.com/urban-jungle-font-f11933
