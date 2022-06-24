@@ -19,4 +19,5 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - [French](/tags/French)
 - [Math](/tags/Math)
 - [English](/tags/English)
-- [ICS](/tags/ICS)  
+- [ICS](/tags/ICS)
+- [Gr. 10](/content/Gr. 10)  
