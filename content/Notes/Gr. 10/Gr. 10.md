@@ -1,6 +1,0 @@
-- Hey!
-- This is Summer break for this year
-- All previous notes were discarded
-- Our new note system begins
-- Sept. 6 is Gr. 10 school!
-- Cya then!
