@@ -15,3 +15,4 @@ title: 🪴 Quartz 3.2
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
 - [School](/tags/Notes)
+- [Starter Vault](/tags/SV)
