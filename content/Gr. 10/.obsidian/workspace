@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hey!.md",
+            "file": "Starter/Journaling in Obsidian with QuickAdd.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hey!.md",
+                "file": "Starter/Journaling in Obsidian with QuickAdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,15 @@
   },
   "active": "547dbb887b58f29d",
   "lastOpenFiles": [
-    "Hey!.md"
+    "Starter/Journaling in Obsidian with QuickAdd.md",
+    "Starter/Journaling.md",
+    "Starter/Intro to Personal Knowledge Management.md",
+    "Starter/General PKM.md",
+    "Starter/Daily Questions in Obsidian.md",
+    "Starter/Connecting Notes & Bidirectional Linking.md",
+    "Starter/Changing Your Obsidian Theme.md",
+    "Starter/Capturing to iCloud Drive & Obsidian from Drafts.md",
+    "Starter/Callback URLs in Obsidian.md",
+    "Starter/Appending Drafts to Dropbox Daily Notes in Obsidian.md"
   ]
 }
