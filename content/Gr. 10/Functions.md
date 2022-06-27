@@ -1,7 +1,7 @@
 ---
 title: "Functions"
 tags: 
-- Summer?
+- Summer
 enableToc: false # do not show a table of contents on this page
 ---
 
