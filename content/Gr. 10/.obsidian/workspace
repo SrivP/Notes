@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Functions.md",
+            "file": "Functions-2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Functions-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "547dbb887b58f29d",
   "lastOpenFiles": [
+    "Functions-2.md",
     "Functions.md",
     "Starter/Journaling in Obsidian with QuickAdd.md",
     "Starter/Journaling.md",
@@ -97,7 +98,6 @@
     "Starter/Daily Questions in Obsidian.md",
     "Starter/Connecting Notes & Bidirectional Linking.md",
     "Starter/Changing Your Obsidian Theme.md",
-    "Starter/Capturing to iCloud Drive & Obsidian from Drafts.md",
-    "Starter/Callback URLs in Obsidian.md"
+    "Starter/Capturing to iCloud Drive & Obsidian from Drafts.md"
   ]
 }

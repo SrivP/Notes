@@ -2,7 +2,7 @@
 title: "Functions-2"
 tags: 
 - Summer
-enableToc: false # do not show a table of contents on this page
+enableToc: true # do not show a table of contents on this page
 ---
 # The Basics
 - A function, in mathematics, is basically **an expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable)**.
@@ -22,6 +22,7 @@ enableToc: false # do not show a table of contents on this page
 	- An equation states that two expressions are equal, and it may involve any number of variables (none, one, or more).
 	- Kinda like an equation is used to define function
 	- Equation is like the building block of functions
+> .callout_info FUNCTION IS LEGIT EVERY RELATION OR TABLE AS LONG AS EACH X VALUE HAS ONLY 1 OUTPUT TO IT
 
 
 # How to derive a function from an equation
@@ -61,4 +62,7 @@ enableToc: false # do not show a table of contents on this page
 	- The domain and range with values in between can be denoted as so: *Lowest* **$\le$**  *x*  **$\le$** *Highest* 
  - [--] denotes including the numbers in the set
  - (--) denotes this set, but without including the number listed (so like one less)
- - 
+ - A function can only ever have 1 output, if it has more than one output in a graph or in general, its not a function, a relation.
+ - A function is a special case of relation
+ - A vertical line is not a function since when an x value is input, we get infinte outputs, which breaks the rules of being a function
+
