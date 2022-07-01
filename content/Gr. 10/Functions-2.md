@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Functions-2"
 tags: 
 - Summer
@@ -52,5 +52,13 @@ enableToc: false # do not show a table of contents on this page
  ![R8SIEw.png](https://imgpile.com/images/R8SIEw.png)
  - For example if domain is all real #'s, then range in all real number that are greater than 0!
  - (I still don't get that lol: https://cutt.ly/VKLlgNB)
+
+# Analogy
+- So basically if we have to find the domain and range of a graph
+	- For domain we would look at the lowest and highest **x** coordinate values
+	- For range we would look at the lowest and highest **y** coordinate values
+	- If we are given only a few dots in the graph, then we conclude that those dots are the only valid input/output for the function, and we just state those dots without considering the values in between.
+	- The domain and range with values in between can be denoted as so: *Lowest* **$\le$**  *x*  **$\le$** *Highest* 
+ - [--] denotes including the numbers in the set
+ - (--) denotes this set, but without including the number listed (so like one less)
  - 
- -  
